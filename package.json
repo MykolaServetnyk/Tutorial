@@ -1,0 +1,24 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "gythub-tutorial\r Trying to learn git",
+  "main": "tutorial.js",
+  "scripts": {
+    "start": "tutorial.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MykolaServetnyk/Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MykolaServetnyk/Tutorial/issues"
+  },
+  "homepage": "https://github.com/MykolaServetnyk/Tutorial#readme",
+  "dependencies": {
+    "validator": "^13.9.0"
+  }
+}
